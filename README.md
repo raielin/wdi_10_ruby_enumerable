@@ -24,4 +24,10 @@ In the `rspec spec/basic_enum_spec.rb` there are links to documentation that map
 - Do not modify other code that is marked to not be modified
 - Do not write any input/output using puts or gets
 
+## Goals
+
+- Think about chaining methods.
+- Get used to only using `.each` in views.
+- When finished, be able to do this in JavaScript.
+
 You may find the [symbol to proc](http://stackoverflow.com/questions/1217088/what-does-mapname-mean-in-ruby) is also highly useful for writing shorter code. You may end up chaining many methods in each method to get the expected result.
